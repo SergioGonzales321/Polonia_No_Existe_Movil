@@ -7,9 +7,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ball1"
         android:label="Basket"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/ball1"
         android:supportsRtl="true"
         android:theme="@style/Theme.VistaEquipos"
         tools:targetApi="31">
