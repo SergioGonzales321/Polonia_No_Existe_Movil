@@ -193,7 +193,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginRight="15dp"
                         android:layout_marginBottom="5dp"
-                        android:text="10"
+                        android:text="0"
                         android:textColor="@color/white"
                         android:textSize="18dp" />
 
@@ -215,7 +215,7 @@
                         android:gravity="right"
                         android:layout_marginRight="5dp"
                         android:layout_marginBottom="5dp"
-                        android:text="20"
+                        android:text="0"
                         android:textColor="@color/white"
                         android:textSize="18dp" />
                 </LinearLayout>
@@ -245,7 +245,7 @@
                     android:gravity="right"
                     android:layout_marginRight="5dp"
                     android:layout_marginBottom="5dp"
-                    android:text="20"
+                    android:text="0"
                     android:textColor="@color/white"
                     android:textSize="18dp" />
 
@@ -268,7 +268,7 @@
                     android:gravity="right"
                     android:layout_marginRight="5dp"
                     android:layout_marginBottom="5dp"
-                    android:text="20"
+                    android:text="0"
                     android:textColor="@color/white"
                     android:textSize="18dp" />
             </LinearLayout>
@@ -297,7 +297,7 @@
                         android:gravity="right"
                         android:layout_marginRight="5dp"
                         android:layout_marginBottom="5dp"
-                        android:text="18"
+                        android:text="0"
                         android:textColor="@color/white"
                         android:textSize="18dp" />
 
@@ -320,7 +320,7 @@
                         android:gravity="right"
                         android:layout_marginRight="5dp"
                         android:layout_marginBottom="5dp"
-                        android:text="19"
+                        android:text="0"
                         android:textColor="@color/white"
                         android:textSize="18dp" />
                 </LinearLayout>
@@ -349,7 +349,7 @@
                         android:gravity="right"
                         android:layout_marginRight="5dp"
                         android:layout_marginBottom="5dp"
-                        android:text="5"
+                        android:text="0"
                         android:textColor="@color/white"
                         android:textSize="18dp" />
 
@@ -372,7 +372,7 @@
                         android:gravity="right"
                         android:layout_marginRight="5dp"
                         android:layout_marginBottom="5dp"
-                        android:text="50"
+                        android:text="0"
                         android:textColor="@color/white"
                         android:textSize="18dp" />
                 </LinearLayout>
