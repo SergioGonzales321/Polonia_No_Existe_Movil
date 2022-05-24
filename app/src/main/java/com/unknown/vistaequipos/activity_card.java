@@ -21,18 +21,18 @@ public class activity_card extends AppCompatActivity {
 
         inicializaViews();
 
-        setDatos();
+        //setDatos();
 
 
     }
 
-    private void setDatos() {
+    /*private void setDatos() {
         for(int i=0; i<8;i++){
             int numero = (int) (Math.random() * 99) + 1;
             Toast.makeText(this, "Aleatorio:"+numero, Toast.LENGTH_SHORT).show();
         }
 
-    }
+    }*/
 
     private void inicializaViews() {
         puntosAnotados = findViewById(R.id.puntosAnotados);
